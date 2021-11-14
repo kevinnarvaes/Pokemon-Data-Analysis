@@ -1,6 +1,9 @@
 # Pokemon-Data-Analysis
 A WIP dashboard built in PBI, focused around pokémon types, abilities, stats and more!
 
+You can view the published report following this link:
+https://app.powerbi.com/view?r=eyJrIjoiNWNmMTllNzQtYWI4Mi00NGE0LWI1ZjgtMzc4N2ExMGVjYmE3IiwidCI6IjY0MWVkZTVhLTUxMzgtNGRjMi04NjNkLTEzZWExYTgxMjQwNyJ9
+
 Based on the pokémon database created by Rounak Banik, hosted in https://www.kaggle.com/rounakbanik/pokemon 
 this is PBI report featuring simple data cleaning in Power Query, setting the right tables to get the full power of Power BI's dimensional modeling,
 and a dashboard showing all sorts of counts of pokémon based on defined atributes as ther Type, Abilities, Experience Growth Group, Ablities and more.
